@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Build artifacts
+build/
+dist/
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
